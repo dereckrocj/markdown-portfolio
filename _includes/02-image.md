@@ -1,1 +1,1 @@
-[alt-text](image-url)
+[alt-text]((https://octodex.github.com/images/yaktocat.png))
